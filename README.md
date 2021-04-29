@@ -7,20 +7,25 @@ Hover over and click on the highlighted countries to see the high level project 
 
 [Worldwide COVID-19 Analytics & Forecasting](https://virus-corona.herokuapp.com)
 
-This dashboard contains a comprehensive overview of the progression of Coronavirus COVID-19 spread. The COVID-19 data is updated once a day around 05:00 (UTC) - 3pm in Australia and 7am in France.
+This dashboard contains a comprehensive overview of the progression of Coronavirus COVID-19 spread. Analytics, and forecasting are available for any continent and country. The COVID-19 data is updated once a day around 05:00 (UTC) - 3pm in Australia and 7am in France.
 
 
 [Anomaly detection](https://github.com/loulouOz/Anomaly-Detection/blob/main/Anomaly%20detection%20using%20Z%20score.ipynb)
 
-Anomaly/Outliers detection using Z-score for time series and 2d data.
+Anomaly/Outliers detection using Z-score for time series on New York city taxi dataset and on 2d data. ![](/images/Anomaly Detection.png)
 
 
 [Predicting price of diamonds](https://github.com/loulouOz/Predicting-diamond-price/blob/main/Diamonds_Decision_Tree.ipynb)
 
-Predicting price of diamonds using Decision Tree and GridSearch.
+Predicting price of diamonds using Decision Tree and GridSearch for parameters optimisation.
 
 
 [Time series Forecasting](https://github.com/loulouOz/Time-Series-Forecasting/blob/main/time_series_forecasting.ipynb)
 
-Time series Forecasting using XGBoost and GridSearch on New York city taxi dataset.
+Time series Forecasting using XGBoost and GridSearch for parameters optimisation on New York city taxi dataset.
+
+
+
+
+
 
