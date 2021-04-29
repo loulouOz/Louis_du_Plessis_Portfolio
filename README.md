@@ -5,7 +5,6 @@ Hover over and click on the highlighted countries to see the high level project 
 
 <br>
 <br>
-<br>
 
 ## [Worldwide COVID-19 Analytics & Forecasting](https://virus-corona.herokuapp.com)
 
