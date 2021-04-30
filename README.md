@@ -54,7 +54,7 @@ Predicting price of diamonds using Decision Tree and GridSearch for parameters o
 
 Mall Customers Analytics to identify potential clusters that can drive marketing strategies.
 
-![](/images/Mall Customers Analytics.png)
+![](/images/Mall Customers Segmentation.png)
 <br>
 <br>
 <br>
