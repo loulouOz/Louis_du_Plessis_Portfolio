@@ -50,9 +50,9 @@ Predicting price of diamonds using Decision Tree and GridSearch for parameters o
 <br>
 <br>
 
-## [Mall Customers Analytics](https://github.com/loulouOz/Clustering/blob/main/clustering.ipynb)
+## [Mall Customers Segmentation](https://github.com/loulouOz/Clustering/blob/main/clustering.ipynb)
 
-Mall Customers Analytics to identify potential clusters that can inform marketing strategies.
+Mall Customers Analytics to identify potential clusters that can drive marketing strategies.
 
 ![](/images/Mall Customers Analytics.png)
 <br>
