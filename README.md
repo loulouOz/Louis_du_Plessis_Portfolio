@@ -58,3 +58,16 @@ Mall Customers Analytics to identify potential clusters that can inform marketin
 <br>
 <br>
 <br>
+
+## [Logistic Regression from scratch](https://github.com/loulouOz/Logistic-Regression/blob/main/logistic_regression.ipynb)
+
+Logistic Regression from scratch on the diabetes dataset with a comparison with Tensorflow.
+
+![](/images/Diabetes Logistic Regression.png)
+<br>
+<br>
+<br>
+
+
+
+
