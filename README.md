@@ -10,6 +10,14 @@ Hover over and click on the highlighted countries to see the high level project 
 
 This dashboard contains a comprehensive overview of the progression of Coronavirus COVID-19 spread. Analytics, and forecasting are available for any continent and country. The COVID-19 data is updated once a day around 05:00 (UTC) - 3pm in Australia and 7am in France.
 
+This is a project that I have done in early March 2020:
+
+Being French living in Australia and having friends and loved ones in France but also all around the world, I was curious about the global spread of COVID-19.
+
+I was particularly interested in seeing the cumulative number of cases for each country over time, as well as new cases emerging by day. So I decided to develop a web-based app/dashboard that gives me all this information in one place.
+
+I hope you find it informative.
+
 ![](/images/COVID Analytics.png)
 <br>
 <br>
@@ -42,4 +50,11 @@ Predicting price of diamonds using Decision Tree and GridSearch for parameters o
 <br>
 <br>
 
+## [Mall Customers Analytics](https://github.com/loulouOz/Clustering/blob/main/clustering.ipynb)
 
+Mall Customers Analytics to identify potential clusters that can inform marketing strategies.
+
+![](/images/Mall Customers Analytics.png)
+<br>
+<br>
+<br>
