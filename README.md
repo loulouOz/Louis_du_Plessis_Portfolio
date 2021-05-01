@@ -68,6 +68,15 @@ Logistic Regression from scratch on the diabetes dataset with a comparison with 
 <br>
 <br>
 
+## [SQL tutorial](https://github.com/loulouOz/SQL-tutorial/blob/main/SQL_tutorial.ipynb)
+
+A friend asked me for a small SQL demonstration and I decided to make it as a tutorial with multiple examples.
+
+![](/images/SQL tutorial.png)
+<br>
+<br>
+<br>
+
 
 
 
