@@ -59,6 +59,18 @@ Mall Customers Analytics to identify potential clusters that can drive marketing
 <br>
 <br>
 
+## [Customer Insights Analytics & RFM Segmentation](https://github.com/loulouOz/Customer-Insights-Analysis-RFM-Segmentation/blob/main/customer_insights.ipynb)
+
+Recency, Frequency and Monetary Value Analysis (RFM) segmentation is a great method to identify groups of customers for special treatment.
+While there are countless ways to perform segmentation, RFM analysis is popular for three reasons:
+It utilizes objective, numerical scales that yield a concise and informative high-level depiction of customers. It is simple – marketers can use it effectively without the need for data scientists or sophisticated software. It is intuitive – the output of this segmentation method is easy to understand and interpret.
+
+![](/images/Customers Insights & RFM Analysis.png)
+<br>
+<br>
+<br>
+
+
 ## [Logistic Regression from scratch](https://github.com/loulouOz/Logistic-Regression/blob/main/logistic_regression.ipynb)
 
 Logistic Regression from scratch on the diabetes dataset with a comparison with Tensorflow.
