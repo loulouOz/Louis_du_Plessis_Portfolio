@@ -70,6 +70,27 @@ It utilizes objective, numerical scales that yield a concise and informative hig
 <br>
 <br>
 
+## [Product Recommendations](https://github.com/loulouOz/recommendation_engine/blob/main/analytics_and_recommendation_engine.ipynb)
+
+Recommending products Using Singular Value Decomposition (SVD) by searching a large group of people and finding a smaller set of users with tastes similar to a particular user.
+
+SVD is a classical Collaborative Filtering method from linear algebra popular for developing recommender systems.
+
+![](/images/Product recommendations.png)
+<br>
+<br>
+<br>
+
+## [Naive Bayes Classifier from scratch](https://github.com/loulouOz/naive-bayes-classifier/blob/main/naive_bayes_classifier.ipynb)
+
+Naive Bayes Classifier from scratch on the iris dataset.
+
+In statistics, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naïve) independence assumptions between the features. They are among the simplest Bayesian network models, but coupled with kernel density estimation, they can achieve higher accuracy levels.
+
+![](/images/Naive Bayes Classifier.png)
+<br>
+<br>
+<br>
 
 ## [Logistic Regression from scratch](https://github.com/loulouOz/Logistic-Regression/blob/main/logistic_regression.ipynb)
 
